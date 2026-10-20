@@ -207,7 +207,7 @@ def render_svg(data):
     motes = []
     for index, (x, y) in enumerate(((105, 110), (340, 173), (585, 60), (2060, 65), (2230, 170), (2450, 320), (109, 516), (560, 610), (1960, 609))):
         duration = 5 + index % 4
-        motes.append(f'''<g opacity=".5"><circle cx="{x}" cy="{y}" r="8" fill="#88d8e7" opacity=".10"/><circle cx="{x}" cy="{y}" r="2.3" fill="#d4f8fb"><animate attributeName="opacity" values=".15;.85;.15" dur="{duration}s" begin="-{index}s" repeatCount="indefinite"/><animate attributeName="cy" values="{y};{y-12};{y}" dur="{duration+2}s" begin="-{index}s" repeatCount="indefinite"/></circle></g>''')
+        motes.append(f'''<g opacity=".8"><circle cx="{x}" cy="{y}" r="18" fill="#88d8e7" opacity=".17"/><circle cx="{x}" cy="{y}" r="4.8" fill="#d4f8fb"><animate attributeName="opacity" values=".3;1;.3" dur="{duration}s" begin="-{index}s" repeatCount="indefinite"/><animate attributeName="cy" values="{y};{y-18};{y}" dur="{duration+2}s" begin="-{index}s" repeatCount="indefinite"/></circle></g>''')
     pieces[-1:-1] = motes
     result = "\n".join(pieces) + "\n"
     ET.fromstring(result)

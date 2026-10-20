@@ -7,12 +7,16 @@
 <p align="center">I'm <strong>Phuc</strong>, a Computer Science graduate interested in software development,<br />practical applications, and learning through hands-on projects.</p>
 
 <p align="center">
-  <img src="./hollow-knight-souls-live.svg" alt="Soul lights and fireflies drifting through a moonlit cavern." width="100%" />
+  <img src="./hollow-knight-souls-live.gif" alt="Soul lights and fireflies drifting through a moonlit cavern." width="100%" />
 </p>
 
 ### Charms of the trade
 
 <p align="center"><strong>C# · Java · Python · SQL · Git · Linux</strong></p>
+
+<p align="center">
+  <img src="./hollow-knight-fireflies.gif" alt="Bright moonlit fireflies drifting through the dark." width="100%" />
+</p>
 
 ### Contributions in the last year
 
