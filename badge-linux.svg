@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="52" viewBox="0 0 160 52" role="img" aria-labelledby="title">
+  <title id="title">Linux</title>
+  <rect x=".5" y=".5" width="159" height="51" rx="12" fill="#1b1730" stroke="#d4a9c8" stroke-opacity=".75" />
+  <g transform="translate(26 27)" fill="#dfb4d3">
+    <path d="M0 11V-2M0 8C-6 8-8 4-8 1C-3 1 0 4 0 8ZM0 5C5 5 8 1 8-2C3-2 0 1 0 5Z" fill-opacity=".7" />
+    <ellipse cy="-7" rx="3" ry="5" />
+    <ellipse cy="-7" rx="3" ry="5" transform="rotate(60 0 -3)" />
+    <ellipse cy="-7" rx="3" ry="5" transform="rotate(-60 0 -3)" />
+    <circle cy="-3" r="2" fill="#f6d4ac" />
+  </g>
+  <text x="97" y="34" fill="#f1d4e8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="middle">Linux</text>
+</svg>
