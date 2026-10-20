@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="95" viewBox="0 0 1200 95" role="img" aria-labelledby="title desc">
+<title id="title">Every path is a chance to learn. @nhphuc09</title>
+<desc id="desc">Moonlit blue gothic arches and delicate white ornamental curls surround a quiet serif caption.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#080e1d"/><stop offset="1" stop-color="#102337"/></linearGradient>
+  <radialGradient id="mist"><stop stop-color="#83b8c9" stop-opacity=".13"/><stop offset=".6" stop-color="#648ba9" stop-opacity=".04"/><stop offset="1" stop-color="#12263b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="soul"><stop stop-color="#e0f4f7" stop-opacity=".35"/><stop offset=".35" stop-color="#b4dee8" stop-opacity=".1"/><stop offset="1" stop-color="#83b8c9" stop-opacity="0"/></radialGradient>
+  <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f7f5"/><stop offset=".6" stop-color="#c8dfe5"/><stop offset="1" stop-color="#91b7c5"/></linearGradient>
+  <g id="flourish" fill="none" stroke="#b3d0da" stroke-width=".8" stroke-linecap="round">
+    <path d="M0 0C-16-1-21-11-35-11C-49-11-49 2-40 3C-34 4-30-2-34-5C-38-9-43-5-40-2M-4 0C-17 3-19 13-32 12C-42 12-44 5-38 3M-10-2C-20-8-23-20-34-20C-41-20-42-14-38-12M-30-11C-34-13-34-17-31-18"/>
+    <path d="M-20-6C-23-5-27-3-26 1C-22 0-20-3-20-6ZM-20 7C-25 7-28 9-29 12C-25 14-21 11-20 7Z" fill="#a6c7d1" fill-opacity=".25" stroke-width=".6"/>
+  </g>
+</defs>
+<rect width="1200" height="95" fill="url(#night)"/><ellipse cx="600" cy="87" rx="530" ry="110" fill="url(#mist)"/>
+<g opacity="0.5" fill="#070e1a"><path d="M21 105V-5Q29.71 -17 54.5 -37Q79.28999999999999 -17 88 -5V105H80V-1Q74.6 -15 54.5 -26Q34.4 -15 29 -1V105Z"/><path d="M17 3h16v3h-16ZM76 3h16v3h-16Z"/></g>
+<g opacity="0.3" fill="#070e1a"><path d="M108 105V16Q119.57 4 152.5 -16Q185.43 4 197 16V105H189V20Q179.2 6 152.5 -5Q125.8 6 116 20V105Z"/><path d="M104 24h16v3h-16ZM185 24h16v3h-16Z"/></g>
+<g opacity="0.16" fill="#070e1a"><path d="M220 97V39Q229.62 27 257.0 7Q284.38 27 294 39V97H286V43Q279.2 29 257.0 18Q234.8 29 228 43V97Z"/><path d="M216 47h16v3h-16ZM282 47h16v3h-16Z"/></g>
+<g opacity="0.5" fill="#070e1a"><path d="M1112 105V-5Q1120.71 -17 1145.5 -37Q1170.29 -17 1179 -5V105H1171V-1Q1165.6 -15 1145.5 -26Q1125.4 -15 1120 -1V105Z"/><path d="M1108 3h16v3h-16ZM1167 3h16v3h-16Z"/></g>
+<g opacity="0.3" fill="#070e1a"><path d="M1003 105V16Q1014.57 4 1047.5 -16Q1080.43 4 1092 16V105H1084V20Q1074.2 6 1047.5 -5Q1020.8 6 1011 20V105Z"/><path d="M999 24h16v3h-16ZM1080 24h16v3h-16Z"/></g>
+<g opacity="0.16" fill="#070e1a"><path d="M906 97V39Q915.62 27 943.0 7Q970.38 27 980 39V97H972V43Q965.2 29 943.0 18Q920.8 29 914 43V97Z"/><path d="M902 47h16v3h-16ZM968 47h16v3h-16Z"/></g>
+<path d="M25 47H296M904 47H1175" stroke="#83b8c9" stroke-width=".55" opacity=".38"/><path d="M120 44H244M956 44H1080" stroke="#6e9cac" stroke-width=".4" opacity=".25"/>
+<use href="#flourish" transform="translate(371 47)"/><use href="#flourish" transform="translate(829 47) scale(-1 1)"/>
+<path d="M385 47C393 43 398 44 401 47C398 50 393 51 385 47ZM815 47C807 43 802 44 799 47C802 50 807 51 815 47Z" fill="#bdd9e1" fill-opacity=".5"/>
+<g text-anchor="middle" font-family="Baskerville,Georgia,Times New Roman,serif"><text x="600" y="43" font-size="27" fill="#d4e8ed">Every path is a chance to learn.</text><text x="600" y="69" font-size="12" fill="#83b8c9" letter-spacing="3">@nhphuc09</text></g>
+<path d="M510 84Q555 82 574 85M626 85Q645 82 690 84" stroke="#83b8c9" stroke-opacity=".25" stroke-width=".6" fill="none"/><path d="M597 85 600 82 603 85 600 88Z" fill="#83b8c9" opacity=".4"/>
+</svg>

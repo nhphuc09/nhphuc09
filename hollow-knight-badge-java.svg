@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="52" viewBox="0 0 160 52" role="img" aria-labelledby="title">
+<title id="title">Java</title>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#080e1d"/><stop offset="1" stop-color="#102337"/></linearGradient>
+  <radialGradient id="mist"><stop stop-color="#83b8c9" stop-opacity=".13"/><stop offset=".6" stop-color="#648ba9" stop-opacity=".04"/><stop offset="1" stop-color="#12263b" stop-opacity="0"/></radialGradient>
+  <radialGradient id="soul"><stop stop-color="#e0f4f7" stop-opacity=".35"/><stop offset=".35" stop-color="#b4dee8" stop-opacity=".1"/><stop offset="1" stop-color="#83b8c9" stop-opacity="0"/></radialGradient>
+  <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0f7f5"/><stop offset=".6" stop-color="#c8dfe5"/><stop offset="1" stop-color="#91b7c5"/></linearGradient>
+  <g id="flourish" fill="none" stroke="#b3d0da" stroke-width=".8" stroke-linecap="round">
+    <path d="M0 0C-16-1-21-11-35-11C-49-11-49 2-40 3C-34 4-30-2-34-5C-38-9-43-5-40-2M-4 0C-17 3-19 13-32 12C-42 12-44 5-38 3M-10-2C-20-8-23-20-34-20C-41-20-42-14-38-12M-30-11C-34-13-34-17-31-18"/>
+    <path d="M-20-6C-23-5-27-3-26 1C-22 0-20-3-20-6ZM-20 7C-25 7-28 9-29 12C-25 14-21 11-20 7Z" fill="#a6c7d1" fill-opacity=".25" stroke-width=".6"/>
+  </g>
+</defs>
+<path d="M7 26C7 12 20 7 39 8H130C143 7 151 16 153 26C151 36 143 45 130 44H39C20 45 7 40 7 26Z" fill="#0d1829" fill-opacity=".9"/>
+<path d="M10 20C15 10 28 9 39 10H130C141 10 148 17 150 22M10 32C15 42 28 43 39 42H130C141 42 148 35 150 30" fill="none" stroke="#88b4c4" stroke-opacity=".56" stroke-width=".65"/>
+<path d="M9 24Q4 26 9 28M151 24Q156 26 151 28M44 9Q47 5 51 9M44 43Q47 47 51 43" fill="none" stroke="#b6d4dd" stroke-opacity=".65" stroke-width=".7"/>
+<g transform="translate(29 28) scale(0.37)">
+  <path d="M-14-9C-27-24-27-42-22-46C-24-30-15-24-10-22C-7-25 7-25 11-22C17-29 23-37 20-49C28-42 27-25 14-9Z" fill="url(#shell)"/>
+  <path d="M-15-17C-7-23 7-23 15-17C17-9 16 5 12 12C8 17-8 17-12 12C-16 4-18-9-15-17Z" fill="url(#shell)" stroke="#bddee5" stroke-width=".55"/>
+  <path d="M-11-9C-7-11-5-7-5-2C-5 2-8 4-11 1C-13-2-13-6-11-9ZM11-9C7-11 5-7 5-2C5 2 8 4 11 1C13-2 13-6 11-9Z" fill="#080e1d"/>
+  <path d="M-12 7Q-10 13-4 13M12 7Q10 13 4 13" fill="none" stroke="#96bdca" stroke-width=".5" opacity=".5"/>
+</g>
+<text x="96" y="34" font-family="Baskerville,Georgia,Times New Roman,serif" font-size="23" fill="#d4e8ed" text-anchor="middle">Java</text>
+<path d="M137 19Q142 23 137 26Q132 23 137 19ZM137 26Q142 30 137 34Q132 30 137 26Z" fill="none" stroke="#83b8c9" stroke-width=".5" stroke-opacity=".6"/>
+</svg>

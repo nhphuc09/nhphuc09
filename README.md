@@ -1,29 +1,36 @@
 <p align="center">
-  <img src="./banner.gif" alt="Phuc Nguyen — a little code, a lot of curiosity. A midnight garden of lavender, pink flowers, and mint leaves." width="100%" />
+  <img src="./hollow-knight-banner.png" alt="Phuc Nguyen in a Hollow Knight inspired moonlit cavern, with gothic ruins, mist, and the Knight on a distant ledge." width="100%" />
 </p>
 
-## 🌱 A little about me
+<h3 align="center">A traveller's notes</h3>
 
-I'm **Phuc**, a Computer Science graduate interested in software development, practical applications, and continuous learning.
-
-## My toolkit
+<p align="center">I'm <strong>Phuc</strong>, a Computer Science graduate interested in software development,<br />practical applications, and learning through hands-on projects.</p>
 
 <p align="center">
-  <img src="./badge-csharp.svg" alt="C#" height="32" />
-  <img src="./badge-java.svg" alt="Java" height="32" />
-  <img src="./badge-python.svg" alt="Python" height="32" />
-  <img src="./badge-sql.svg" alt="SQL" height="32" />
-  <img src="./badge-git.svg" alt="Git" height="32" />
-  <img src="./badge-linux.svg" alt="Linux" height="32" />
+  <img src="./hollow-knight-souls.gif" alt="Pale soul lights drifting through a quiet blue cavern; a small horned traveller rests at the centre." width="100%" />
 </p>
 
-## Things I've worked on
+### Charms of the trade
 
-- **[HealthcareSys-Frontend](https://github.com/nhphuc09/HealthcareSys-Frontend)** — A frontend project for a healthcare system.
-- **[GDP dashboard](https://github.com/nhphuc09/gdp-dashboard-1)** — A simple Streamlit GDP dashboard template.
+<p align="center">
+  <img src="./hollow-knight-badge-csharp.svg" alt="C#" height="32" />
+  <img src="./hollow-knight-badge-java.svg" alt="Java" height="32" />
+  <img src="./hollow-knight-badge-python.svg" alt="Python" height="32" />
+  <img src="./hollow-knight-badge-sql.svg" alt="SQL" height="32" />
+  <img src="./hollow-knight-badge-git.svg" alt="Git" height="32" />
+  <img src="./hollow-knight-badge-linux.svg" alt="Linux" height="32" />
+</p>
+
+### Paths explored
+
+**[HealthcareSys-Frontend](https://github.com/nhphuc09/HealthcareSys-Frontend)**  
+Frontend project for a healthcare system.
+
+**[GDP dashboard](https://github.com/nhphuc09/gdp-dashboard-1)**  
+A simple Streamlit GDP dashboard template.
 
 <details>
-<summary><strong>📚 Learning shelf</strong></summary>
+<summary><strong>Open the journal</strong></summary>
 
 Learning resources I've forked to explore:
 
@@ -34,8 +41,8 @@ Learning resources I've forked to explore:
 
 <br />
 
-Find me on GitHub: **[@nhphuc09](https://github.com/nhphuc09)**.
+<p align="center"><em>Every path is a chance to learn.</em><br /><a href="https://github.com/nhphuc09">@nhphuc09</a></p>
 
 <p align="center">
-  <img src="./footer.svg" alt="Thanks for stopping by. Keep learning. Keep growing." width="100%" />
+  <img src="./hollow-knight-footer.svg" alt="Every path is a chance to learn. @nhphuc09" width="100%" />
 </p>
