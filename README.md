@@ -21,23 +21,11 @@
   <img src="./hollow-knight-badge-linux.svg" alt="Linux" height="32" />
 </p>
 
-### Paths explored
+### Contributions in the last year
 
-**[HealthcareSys-Frontend](https://github.com/nhphuc09/HealthcareSys-Frontend)**  
-Frontend project for a healthcare system.
-
-**[GDP dashboard](https://github.com/nhphuc09/gdp-dashboard-1)**  
-A simple Streamlit GDP dashboard template.
-
-<details>
-<summary><strong>Open the journal</strong></summary>
-
-Learning resources I've forked to explore:
-
-- [30 Days of Python](https://github.com/nhphuc09/30-Days-Of-Python)
-- [8 Week SQL Challenge](https://github.com/nhphuc09/8-Week-SQL-Challenge)
-
-</details>
+<p align="center">
+  <img src="./hollow-knight-contributions.gif" alt="GitHub contribution calendar for nhphuc09, with pale Soul lights moving through a moonlit grid." width="100%" />
+</p>
 
 <br />
 
