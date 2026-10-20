@@ -1,0 +1,52 @@
+name: Refresh profile activity
+
+'on':
+  schedule:
+    # UTC; approximately 01:17, 07:17, 13:17 and 19:17 in Vietnam.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'update_profile.py'
+      - '.github/workflows/update-profile.yml'
+
+# No access is granted unless the refresh job requests it below.
+permissions: {}
+
+concurrency:
+  group: profile-activity-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'nhphuc09/nhphuc09'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Fetch current public GitHub activity
+        run: python3 update_profile.py --username nhphuc09
+
+      - name: Commit updated activity only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- hollow-knight-contributions-live.svg hollow-knight-contributions-live.json
+          if [ -f README.md ]; then
+            git add -- README.md
+          fi
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh public profile activity [skip ci]'
+          git push origin HEAD:main
