@@ -1,49 +1,14 @@
 {
   "username": "nhphuc09",
   "source_url": "https://github.com/users/nhphuc09/contributions",
-  "source_sha256": "1c9a137228a0c28518c9eca7ac60ae216f4b09f84d2300b19c8dfd9e705cf648",
+  "source_sha256": "c00f06d83f5670c4df7d93beb1810af182e2cf0590bc3ff6d01e0f847459b1b8",
   "source_heading": "22 contributions in the last year",
   "total_contributions": 22,
   "date_range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
   "days": [
-    {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "level": 0,
@@ -1863,6 +1828,11 @@
       "date": "2026-11-21",
       "level": 0,
       "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "level": 0,
+      "count": 0
     }
   ],
   "profile": {
@@ -1870,5 +1840,5 @@
     "public_repositories": 9,
     "followers": 0
   },
-  "updated_at_utc": "2026-11-21T19:16:15+00:00"
+  "updated_at_utc": "2026-11-22T19:40:07+00:00"
 }
