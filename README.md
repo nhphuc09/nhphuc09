@@ -29,7 +29,6 @@
 <p align="center">
   <img src="./hollow-knight-contributions-live.svg?v=20261124222622" alt="Contribution calendar generated from current public GitHub data for nhphuc09." width="100%" />
 </p>
-
 <p align="center">
   <img src="./hollow-knight-footer.svg" alt="Moonlit gothic ornament." width="100%" />
 </p>
