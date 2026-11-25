@@ -21,13 +21,13 @@
 ### Contributions in the last year
 
 <!-- profile-stats:start -->
-**22 contributions in the last year**
+**23 contributions in the last year**
 
-<sub>Updated 24 Nov 2026, 22:26 UTC · Refreshes every 6 hours from [GitHub](https://github.com/users/nhphuc09/contributions).</sub>
+<sub>Updated 25 Nov 2026, 21:41 UTC · Refreshes every 6 hours from [GitHub](https://github.com/users/nhphuc09/contributions).</sub>
 <!-- profile-stats:end -->
 
 <p align="center">
-  <img src="./hollow-knight-contributions-live.svg?v=20261124222622" alt="Contribution calendar generated from current public GitHub data for nhphuc09." width="100%" />
+  <img src="./hollow-knight-contributions-live.svg?v=20261125214141" alt="Contribution calendar generated from current public GitHub data for nhphuc09." width="100%" />
 </p>
 <p align="center">
   <img src="./hollow-knight-footer.svg" alt="Moonlit gothic ornament." width="100%" />
